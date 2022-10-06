@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+}
+table{
+    border-collapse:collapse;
+    background-color: rgba(252, 252, 252, 0.5);
+}
